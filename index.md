@@ -10,3 +10,7 @@ function add(a, b) {
 }
 
 console.log(add(5, 10)); // Output: 15
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
